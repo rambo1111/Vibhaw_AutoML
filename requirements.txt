@@ -7,6 +7,6 @@ pandas==1.5.3
 gunicorn
 scipy==1.5.4
 scikit-learn==0.23.2
-numpy==1.20.3
+numpy
 toml==0.10.2
 wheel==0.41.2
